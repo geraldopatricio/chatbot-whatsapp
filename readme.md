@@ -34,6 +34,6 @@ Instale a biblioteca:
     npm install firebase-admin --save
 
 
-## Biblioteca Brasileira utilizada
+## Bibliotecas utilizada
 wppconnect
 Firebase
