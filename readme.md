@@ -1,9 +1,6 @@
 ## Titulo do Projeto
 Projeto de um ChatBot Whatsapp
 
-## Fonte
-https://medium.com/como-programar-em-1-dia/como-fazer-um-rob%C3%B4-de-whatsapp-chatbot-em-1-dia-644ee98054d7
-
 ## Pré-Requisitos
 Instalar NodeJS
 Instalar o gerenciador de pacotes npm
